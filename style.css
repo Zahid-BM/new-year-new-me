@@ -1,3 +1,38 @@
 *{
+    margin: 0;
+}
+/* header style */
+header{
+    background-image: url(images/banner/banner3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 150px 150px 106px 575px;
     
+}
+.banner-container{
+    text-align: right;
+    /* padding: 216px 100px 250px 560px; */
+    padding-bottom: 100px;
+    
+    
+}
+.banner-heading{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 700;
+}
+.banner-text{
+    color: #FFF;
+    font-size: 16px;
+    margin-bottom: 32px;
+    padding-left: 18%;
+}
+.banner-btn{
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    padding: 20px 25px;
+    border: 0;
 }
