@@ -48,8 +48,6 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px 150px 106px 575px;
-    position: relative;
-    overflow: hidden;
     transform: scaleX(-1); 
     
 }
