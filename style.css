@@ -150,3 +150,43 @@ ul li .lni {
     font-size: 18px;
     font-weight: 500;
 }
+/* positive styles */
+.positive{
+    padding: 0 150px;
+    margin-bottom: 139px;
+    
+}
+.positive-container{
+    /* using a background image and transparent linear gradient property and value */
+    background-image: linear-gradient(to right, rgb(255, 72, 0), rgba(255,0,0,0)),url(/images/watch.png);
+
+    /* using two background image and 2nd one is itself a linear gradient image. for thi case must use background-blend-mode property and value */
+   /*  background-image: url(/images/watch.png) , url(/images/gradient3.png);
+    background-blend-mode: overlay; */
+
+    padding: 60px 617px 60px 64px;
+    background-size: cover;
+    border-radius: 8px;
+    
+}
+.positive-elements{
+    text-align: left;
+
+}
+.positive-title{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.white-btn{
+    padding: 20px 36px;
+    border-radius: 5px;
+    background: #FFF;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+}
+/* footer style */
