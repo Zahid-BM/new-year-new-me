@@ -3,7 +3,7 @@
 }
 /* header style 3 */
 /* .banner{
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(images/banner/banner3.png);
     background-size: contain;
     background-repeat: no-repeat;
     padding: 150px 150px 106px 575px;
@@ -44,7 +44,7 @@ header{
     margin-bottom: 139px;
 }
 .banner{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(images/banner/banner2.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px 150px 106px 575px;
@@ -158,10 +158,10 @@ ul li .lni {
 }
 .positive-container{
     /* using a background image and transparent linear gradient property and value */
-    background-image: linear-gradient(to right, rgb(255, 72, 0), rgba(255,0,0,0)),url(/images/watch.png);
+    background-image: linear-gradient(to right, rgb(255, 72, 0), rgba(255,0,0,0)),url(images/watch.png);
 
     /* using two background image and 2nd one is itself a linear gradient image. for thi case must use background-blend-mode property and value */
-   /*  background-image: url(/images/watch.png) , url(/images/gradient3.png);
+   /*  background-image: url(images/watch.png) , url(images/gradient3.png);
     background-blend-mode: overlay; */
 
     padding: 60px 617px 60px 64px;
