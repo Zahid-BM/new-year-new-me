@@ -190,3 +190,59 @@ ul li .lni {
     border: 0;
 }
 /* footer style */
+footer{
+    background-color: black;
+    color: white;
+    padding: 130px 150px 130px 140px;
+}
+.footer-container{
+    display: flex;
+}
+.future{
+    padding-right: 280px;
+}
+.footer-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.future-description{
+    margin-bottom: 24px;
+}
+.email{
+    margin-bottom: 16px;
+}
+.phone{
+    margin-bottom: 32px;
+}
+.future img{
+    margin-right: 20px;
+}
+.form-container{
+    margin-right: 120px;
+}
+.form-title{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 31px;
+
+}
+.email-input{
+    padding: 21px;
+    background-color: black;
+    border: 2px solid ;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    margin-bottom: 16px;
+    width: 150%;
+}
+.submit-input-btn{
+    border-radius: 8px;
+    background: #FFF;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 36px;
+    border: 0;
+}
